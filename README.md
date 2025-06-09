@@ -1,4 +1,4 @@
-# 🌱 AI Tarım - Yapay Zeka Destekli Tarım Uygulaması
+# 🌱 AI Tarım - Yapay Zeka Destekli Tarım Uygulaması v1.2
 
 Modern web teknolojileri ile geliştirilmiş, yapay zeka destekli tarım analiz uygulaması.
 
@@ -21,16 +21,16 @@ Modern web teknolojileri ile geliştirilmiş, yapay zeka destekli tarım analiz 
 
 ## 🌐 Canlı Demo
 
-[https://kullaniciadi.github.io/ai-tarim/](https://kullaniciadi.github.io/ai-tarim/)
+[https://kullaniciadi.github.io/ai-tarim/]([https://kullaniciadi.github.io/ai-tarim](https://kickergit.github.io/aitarimv1.2/))
 
 ## 🔧 Kurulum
 
 ```bash
 # Repository'yi klonlayın
-git clone https://github.com/kullaniciadi/ai-tarim.git
+git clone https://github.com/kickergit/aitarimv1.2.git
 
 # Proje dizinine gidin
-cd ai-tarim
+cd aitarimv1.2
 
 # Bağımlılıkları yükleyin
 npm install
@@ -89,6 +89,8 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 **Ahmet Özkan**
 - Email: ozkanahmet@protonmail.com
+- www.linkedin.com/in/ozkanaahmet
+- Phone: +90 539 950 33 95
 - Created with AI assistance
 
 ## 🤝 Katkıda Bulunma
