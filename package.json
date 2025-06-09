@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://kickergit.github.io/aitarimv1.2/",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
