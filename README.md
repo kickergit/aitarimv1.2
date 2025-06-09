@@ -21,7 +21,7 @@ Modern web teknolojileri ile geliştirilmiş, yapay zeka destekli tarım analiz 
 
 ## 🌐 Canlı Demo
 
-[https://kullaniciadi.github.io/ai-tarim/]([https://kullaniciadi.github.io/ai-tarim](https://kickergit.github.io/aitarimv1.2/))
+[https://kullaniciadi.github.io/ai-tarim/]((https://kickergit.github.io/aitarimv1.2/))
 
 ## 🔧 Kurulum
 
