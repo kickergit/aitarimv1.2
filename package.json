@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://kullaniciadi.github.io/ai-tarim/",
+  "homepage": "https://kickergit.github.io/aitarimv1.2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
